@@ -24,11 +24,6 @@ Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas Avan�
 <img src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-## Referências
-
-[KAGGLE](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data) - Propensity Score Matching
-[KAGGLE](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress) - Differences-In-Differences
-
 
 
 
