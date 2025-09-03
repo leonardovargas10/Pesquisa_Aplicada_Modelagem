@@ -16,7 +16,6 @@ Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas Avan�
 - [x] Cálculo Diferencial e Integral
 - [x] Álgebra Linear
 - [x] Deep Learning
-- [x] Econometria
 - [x] Inferência Causal
 
 ## Status do Projeto
@@ -29,6 +28,7 @@ Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas Avan�
 
 [KAGGLE](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data) - Propensity Score Matching
 [KAGGLE](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress) - Differences-In-Differences
+
 
 
 
