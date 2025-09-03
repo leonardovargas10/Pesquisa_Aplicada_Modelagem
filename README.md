@@ -4,14 +4,18 @@
 
 ## Descrição do Projeto
 
-Este projeto tem o intuito de explorar Técnicas de Econometria e Inferência Causal
+Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas Avançadas de Modelagem nas áreas de Deep Learning e Inferência Causal. Idealmente, o repositório poderá conter conteúdos de cursos, testes de código, replicação de artigos científicos, entre outros materais.
 
 ## Fundamentação Teórica
 
 - [x] Fundamentos de GIT
 - [x] SQL
 - [x] Python
-- [x] Análise de Dados 
+- [x] Matemática Aplicada
+- [x] Estatística Aplicada
+- [x] Cálculo Diferencial e Integral
+- [x] Álgebra Linear
+- [x] Deep Learning
 - [x] Econometria
 - [x] Inferência Causal
 
@@ -25,6 +29,7 @@ Este projeto tem o intuito de explorar Técnicas de Econometria e Inferência Ca
 
 [KAGGLE](https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data) - Propensity Score Matching
 [KAGGLE](https://www.kaggle.com/datasets/gpreda/covid-world-vaccination-progress) - Differences-In-Differences
+
 
 
 
