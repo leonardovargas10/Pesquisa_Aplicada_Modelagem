@@ -4,7 +4,7 @@
 
 ## Descrição do Projeto
 
-Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas Avançadas de Modelagem nas áreas de Deep Learning, Inferência Causal e Modelagem de Crédito. Idealmente, o repositório poderá conter conteúdos de cursos, testes de código, replicação de artigos científicos, entre outros materais.
+Este repositório tem o intuito de conduzir pesquisa aplicada em Técnicas de Modelagem nas áreas de Deep Learning, Inferência Causal e Modelagem de Crédito. Idealmente, o repositório poderá conter conteúdos de cursos, testes de código, replicação de artigos científicos, entre outros materais.
 
 ## Fundamentação Teórica
 
