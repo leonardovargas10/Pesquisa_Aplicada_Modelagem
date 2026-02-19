@@ -3,3 +3,10 @@ data
 .csv
 .xlsx
 .parquet
+
+deep_learning_venv/
+venv/
+.env/
+__pycache__/
+.ipynb_checkpoints/
+
